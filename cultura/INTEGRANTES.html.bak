@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ITURBIDE</title>
+<link rel="stylesheet" href="css/css2.css">
+</head>
+<body>
+    <div id="header">
+        <h1>Integrantes</h1>
+        <nav id="Navegacion">
+            <ul>
+                <li><a href="nuevoindex.html">HOME</a></li>
+
+            </ul>
+        </nav>
+    </div>
+    <div class="contenido">
+        <ul>
+            <li>
+			 <img style="float:left; padding-right: 10px; padding-left: 10px" width="400" height="400" src="img/raul.jpg">
+                <p><span style="color:blue">Raúl Gutiérrez Camacho</span> <br>
+				<li>Univerdad Autonoma de Nuevo León</li>
+				<li>Facultad de Ingeniería Mecánica y Eléctrica</li>
+				<li>Ingeniería en Tecnología de Software</li>
+				<li>Semestre: 4to</li>
+                </p>
+				<br></br><br></br>
+            </li>
+        </ul>
+		<ul>
+            <li>
+			 <img style="float:left; padding-right: 10px; padding-left: 10px" width="400" height="400" src="img/denisse.jpg">
+                <p><span style="color:blue">Denisse García Espinoza</span> <br>
+				<li>Univerdad Autonoma de Nuevo León</li>
+				<li>Facultad de Ingeniería Mecánica y Eléctrica</li>
+				<li>Ingeniería en Tecnología de Software</li>
+				<li>Semestre: 4to</li>
+                </p>
+				<br></br><br></br>
+            </li>
+        </ul>
+		<ul>
+            <li>
+			 <img style="float:left; padding-right: 10px; padding-left: 10px" width="400" height="400" src="img/andrea.jpg">
+                <p><span style="color:blue">Andrea Susana Almanza Valle</span> <br>
+				<li>Univerdad Autonoma de Nuevo León</li>
+				<li>Facultad de Ingeniería Mecánica y Eléctrica</li>
+				<li>Ingeniería en Tecnología de Software</li>
+				<li>Semestre: 4to</li>
+                </p>
+				<br></br><br></br>
+            </li>
+        </ul>
+		<ul>
+            <li>
+			 <img style="float:left; padding-right: 10px; padding-left: 10px" width="400" height="400" src="img/navarro.jpg">
+                <p><span style="color:blue">Francisco Emilio Navarro Flores</span> <br>
+				<li>Univerdad Autonoma de Nuevo León</li>
+				<li>Facultad de Ingeniería Mecánica y Eléctrica</li>
+				<li>Ingeniería en Tecnología de Software</li>
+				<li>Semestre: 4to</li>
+                </p>
+				<br></br><br></br>
+            </li>
+        </ul>
+		<ul>
+            <li>
+			 <img style="float:left; padding-right: 10px; padding-left: 10px" width="400" height="400" src="img/serafin.jpg">
+                <p><span style="color:blue">Serafín González Pérez</span> <br>
+				<li>Univerdad Autonoma de Nuevo León</li>
+				<li>Facultad de Ingeniería Mecánica y Eléctrica</li>
+				<li>Ingeniería en Tecnología de Software</li>
+				<li>Semestre: 4to</li>
+                </p>
+				<br></br><br></br>
+            </li>
+        </ul>
+
+        
+    </div>
+    
+</body>
+</html>

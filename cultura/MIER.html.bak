@@ -1,0 +1,96 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIER Y NORIEGA</title>
+    <link rel="stylesheet" href="css/css2.css">
+</head>
+<body>
+    <div id="header">
+        <h1>MIER Y NORIEGA</h1>
+        <nav id="Navegacion">
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="ZARAGOZA.html">GRAL ZARAGOZA</a></li>
+                <li><a href="ARROYO.html">DR. ARROYO</a></li>
+				<li><a href="ITURBIDE.html">ITURBIDE</a></li>
+				<li><a href="ARAMBERRI.html">ARAMBERRI</a></li>
+				<li><a href="GALEANA.html">GALEANA</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="contenido">
+        <ul>
+            <li>
+			 <img style="float:left; padding-right: 10px; padding-left: 10px" width="300" height="300" src="img/mier.jpg">
+                <p><span style="color:blue">EL MUNICIPIO</span> <br>
+               <br></br>
+				Mier y Noriega. Municipio del Estado de Nuevo León, México. Su extensión territorial
+				de 1,006.78 Km2.<br></br>
+				Delimitación:
+				Limita al norte y oeste con el municipio de Doctor Arroyo, Nuevo León y al sur con
+				el municipio de Guadalcazar, San Luis Potosí y al este con el municipio de
+				Bustamante y Tamaulipas.<br></br>
+				Clima:
+				Seco estepario frío. Su temperatura media anual es de 19.1° C, siendo sus meses
+				más calurosos mayo y junio. Sus vientos dominantes son los del sur y su
+				precipitación media anual es de 480 mm.
+				El municipio corresponde a la zona del Altiplano es por ello que existe aridez en sus
+				tierras siendo escasa su vegetación
+				<br></br><br></br>
+
+                </p>
+				
+            </li>
+        </ul>
+        <ul>
+            <li>
+                
+				<p> <span style="color:blue">FIESTAS Y TRADICIONES</span><br>
+				<img style="float:right; padding-right: 10px; padding-left: 10px" width="400" height="500" src="img/iglesia.jpg">
+               Es tradición en este pueblo la celebración de festividades religiosas como; el 13 de
+				junio se lleva a cabo una feria regional para festejar al Santo Patrono del Pueblo,
+				San Antonio de Padua.<br></br> Durante la Semana Mayor se hacen misas y peregrinaciones
+				hacia el templo. Durante esta semana Santa cuando se hacen actividades donde
+				participa todo el pueblo como en la quema del chamuco; el 3 de mayo, se festeja La
+				Santa Cruz en los ejidos de San Rafael de Martínez y La Cardona.<br></br>
+				El 12 de diciembre la Virgen de Guadalupe sobre todo en San Isidro y La Presita.
+				El nacimiento del niño Dios es tradicionalmente festejado con danzas y pastorelas
+				en algunos ejidos, teniendo como cena tradicional de Navidad tamales, buñuelos,
+				acompañados de champurrado y chocolate.<br></br><br></br>
+					</li>
+					
+        </ul>
+        <ul>
+            <li>
+			
+                <p> <span style="color:blue">TURISMO Y LUGARES DE INTERES</span><br>
+				Turismo<br></br>
+				El municipio cuenta con suficientes atractivos naturales, edificaciones históricas y
+				arquitectónicas de todo tipo lo cual atrae a muchos visitantes y esto representan un
+				importante factor en el desarrollo económico para convertirse, en poco tiempo, en
+				un destino solicitado por los viajeros nacionales e internacionales. Se cuenta playas
+				vírgenes que no han sido explotadas por la falta de difusión, pero que son visitadas
+				por habitantes del municipio y otros.<br></br><br></br>
+				Lugares de interés<br></br>
+				En San Isidro, al norte de la cabecera municipal se localizan vestigios Arqueológicos
+				de cerámica antigua de probable procedencia de la Huasteca, En el extremo oriente
+				se encuentra una gruta de fósiles, cueva donde se encontraron toneladas de huesos
+				fósiles de animales del pleistoceno.<br></br>
+				En la cabecera municipal se encuentra una casa de la época de la Revolución
+				Mexicana de 1910 con pasadizos subterráneos y pinturas murales.<br></br>
+				Mier y Noriega es un municipio de Nuevo León, ubicado en la región sur de la
+				altiplanicie del estado. Es un territorio rico en maguey, nopal, garambullo, mezquite,
+				zamahil, tasajillo, charniz, gobernadora, ocotillo, cononostle, sotol y palma de yuca.
+				Su fauna se integra por venados, coyotes, zorras, conejos y liebres del monte.
+				Además de gorriones, cardenales y víbora de cascabel.
+               </p>
+            </li>
+        </ul>
+        
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GENERAL ZARAGOZA</title>
+    <link rel="stylesheet" href="css/css2.css">
+</head>
+<body>
+    <div id="header">
+        <h1>GENERAL ZARAGOZA</h1>
+        <nav id="Navegacion">
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="GALEANA.html">GALEANA</a></li>
+                <li><a href="ARROYO.html">DR. ARROYO</a></li>
+				<li><a href="ITURBIDE.html">ITURBIDE</a></li>
+				<li><a href="ARAMBERRI.html">ARAMBERRI</a></li>
+				<li><a href="MIER.html">MIER Y NORIEGA</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="contenido">
+        <ul>
+            <li>
+			 <img style="float:left; padding-right: 10px; padding-left: 10px" width="400" height="400" src="img/rio.jpg">
+                <p><span style="color:blue">LA NATURALEZA</span> <br>
+               
+				El municipio de Gral. Zaragoza es uno de los más bonitos en cuanto a su
+				naturaleza, tiene increíbles paisajes como lo son el parque recreativo El Salto,
+				este espacio de 500 hectáreas está conformado por una laguna, el Rio Blanco y
+				dos espectaculares cascadas: El Salto y Velo de Novia.
+				También se encuentra la laguna del Perico, la cual está en medio del bosque y se
+				trata de un manantial subterráneo.<br></br>
+				General Zaragoza fue fundado en 1626 por Fray Lorenzo Cantú como la Misión de
+				San José del Rio Blanco, es un lugar muy tranquilo con abundante naturaleza
+				como arboles por sus calles.<br></br>
+				Aquí se encuentra la iglesia San José, la cual fue una de los primeros templos en
+				Nuevo León, se destruyó por la revolución y en 1952 se volvió a edificar. En su
+				interior está la talla de San José con el Niño Jesús.<br></br>
+				El museo Rio Blanco se encuentra en este municipio y es el primer museo regional
+				del sur de Nuevo León, se pueden apreciar y valorar las costumbres del pasado
+				que aún sobreviven en el espíritu de la gente.
+				Abrió sus puertas en el año 2000 y su principal atracción es una exposición de
+				modelado en barro de los alumnos del taller de creatividad. Tiene sus puertas
+				abiertas los sábados, domingos y días festivos y su costo de entrada es de solo 5
+				pesos.<br></br>
+				<a href = "https://nuevoleon.travel/general-zaragoza-un-verdadero-paraiso-natural/">Bibliografia</a>
+				
+                </p>
+				
+            </li>
+        </ul>
+        
+    </div>
+    
+</body>
+</html>

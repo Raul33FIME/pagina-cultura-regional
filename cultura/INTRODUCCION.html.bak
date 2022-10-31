@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ITURBIDE</title>
+    <link rel="stylesheet" href="css/css2.css">
+</head>
+<body>
+    <div id="header">
+        <h1>INTRODUCCIÓN</h1>
+        <nav id="Navegacion">
+            <ul>
+                <li><a href="nuevoindex.html">HOME</a></li>
+
+            </ul>
+        </nav>
+    </div>
+    <div class="contenido">
+        <ul>
+            <li>
+
+                <p>
+               En este trabajo vamos a estar hablando sobre algunos de los municipios de la región
+				sur del estado de Nuevo León, los cuales son Aramberri, Dr. Arroyo, Galeana,
+				Iturbide, Mier y Noriega y Gral. Zaragoza.<br></br>
+				No sólo vamos a mencionar los puntos importantes de cada uno de estos
+				municipios, sino que también analizaremos la cultura que tiene cada uno y como se
+				lleva a cabo a lo largo de las actividades que se hacen a diario. También incluiremos
+				los diferentes puntos de turismo, así como información general de estos.<br></br>
+				El estado nuevo León es un estado con muchos municipios que están mucho menos
+				globalizados que el área metropolitana, sin embargo, es importante entender que
+				no porque esto sean muy pequeños y estén pegados unos de otros, significa que
+				son iguales en cuanto cultura y costumbres, al contrario, estos varían mucho en el
+				tipo de formas que se hacen las cosas y en el tipo de personas que es la sociedad
+				de estos lugares.
+				
+
+                </p>
+				
+            </li>
+        </ul>
+
+        
+    </div>
+    
+</body>
+</html>
